@@ -1,4 +1,4 @@
-# Tic Tac Toe Game ❌⭕️
+# Tic Tac Toe Game **HTML5**:❌⭕️
 
 A classic **Tic Tac Toe** game built using HTML, CSS, and JavaScript. This interactive web-based version lets two players play on the same device, with visual feedback and game-ending logic.
 
